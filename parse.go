@@ -4,14 +4,14 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/prebid/go-gpp/constants"
-	"github.com/prebid/go-gpp/sections/uspca"
-	"github.com/prebid/go-gpp/sections/uspco"
-	"github.com/prebid/go-gpp/sections/uspct"
-	"github.com/prebid/go-gpp/sections/uspnat"
-	"github.com/prebid/go-gpp/sections/usput"
-	"github.com/prebid/go-gpp/sections/uspva"
-	"github.com/prebid/go-gpp/util"
+	"github.com/deepakky25/go-gpp/constants"
+	"github.com/deepakky25/go-gpp/sections/uspca"
+	"github.com/deepakky25/go-gpp/sections/uspco"
+	"github.com/deepakky25/go-gpp/sections/uspct"
+	"github.com/deepakky25/go-gpp/sections/uspnat"
+	"github.com/deepakky25/go-gpp/sections/usput"
+	"github.com/deepakky25/go-gpp/sections/uspva"
+	"github.com/deepakky25/go-gpp/util"
 )
 
 const (

@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/prebid/go-gpp/constants"
-	"github.com/prebid/go-gpp/sections"
-	"github.com/prebid/go-gpp/sections/uspca"
-	"github.com/prebid/go-gpp/sections/uspva"
+	"github.com/deepakky25/go-gpp/constants"
+	"github.com/deepakky25/go-gpp/sections"
+	"github.com/deepakky25/go-gpp/sections/uspca"
+	"github.com/deepakky25/go-gpp/sections/uspva"
 	"github.com/stretchr/testify/assert"
 )
 

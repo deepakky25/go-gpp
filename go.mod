@@ -1,4 +1,4 @@
-module github.com/prebid/go-gpp
+module github.com/deepakky25/go-gpp
 
 go 1.16
 
